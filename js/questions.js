@@ -2,25 +2,25 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the name of the safety sign as shown in the figure?",
-    immg:"img1",
-    answer: "Information Sign",
+    question: "Which test is conducted to locate the faults in U.G. cables?",
+    //immg:"img1",
+    answer: "Loop Test",
     options: [
-      "Warn Sign",
-      "Mandatory Sign",
-      "Information Sign",
-      "Danger Sign"
+      "Loop Test",
+      "External growler Test",
+      "Breakdown Voltage Test",
+      "Insulation Resistance Test"
     ]
   },
     {
     numb: 2,
-    question: "What is smothering in extinguishing of fire?",
-    answer: "Isolating the fire from the supply of oxygen",
+    question: "What does the number 1.40 represent if a stranded conductor is designated as 7/1.40?",
+    answer: "Diameter of each conductor",
     options: [
-      "Adding the fuel element to the fire",
-      "Removing the fuel element from the fire",
-      "Using of water to lower the temperature", 
-      "Isolating the fire from the supply of oxygen"
+      "Area of cross section",
+      "Radius of one conductor",
+      "Diameter of all conductor", 
+      "Diameter of each conductor"
     ]
   },
     {
