@@ -242,63 +242,63 @@ let questions = [
     
              {
     numb: 21,
-    question: "What is starving in extinguishing of fire?",
+    question: "What is the effect on molten solder due to repeated melting?",
     
-    answer:"Removing fuel element from the fire",
+    answer:"Tin content reduced",
     options: [
-      "Adding fue to the fire",
-      "Using water to cool the fire ",
-      "Removing fuel element from the fire",
-      "Preventing oxygen supply to the fire"
+      "Tin content reduced",
+      "Lead content reduced",
+      "Prevent slug formation",
+      "Even solder flowing in joint"
     ]
   },
                  
         {
     numb: 22,
-    question: "Which artificial respiration method is to be performed to the victim with injuries on the chest and belly?",
+    question: "Which type of soldering method is used for servicing and repairing of electronics items?",
     
-    answer:"Mouth to mouth method",
+    answer:"Soldering with soldering gun",
     options: [
-      "Schafers method",
-      "Mouth to mouth method",
-      "Holger Nelson back pressure method",
-      "Nelson arm lift back pressure method"
+      "Dip soldering",
+      "Soldering with a flame",
+      "Soldering with soldering gun",
+      "Machine soldering"
     ]
   },  
      {
     numb: 23,
-    question: "Which type of occupational health hazard is cause for infection due to bacteria?",
+    question: "Which method of soldering is used for repairing the vehicle body?",
     
-    answer:"Biological hazard",
+    answer:"Soldering with flame",
     options: [
-      "Electrical Hazard",
-      "Physiological hazard",
-      "Biological hazard",
-      "Pschological hazard"
+      "Dip soldering",
+      "Soldering with flame",
+      "soldring with soldering iron",
+      "machine soldering"
     ]
   }, 
      {
     numb: 24,
-    question: "Which is the golden hour for the victim injured on head with risk of dying?",
+    question: "What is the disadvantage of solid conductor compared to stranded conductor?",
     
-    answer: "First 30 minutes",
+    answer: "Less flexibility",
     options: [
-      "First 15 minutes",
-      "First 30 minutes",
-      "First 45 minutes",
-     "First 60 minutes"
+      "Less rigidity",
+      "Less flexibility",
+      "Low melting point",
+     "low maechanical strength"
     ]
   },
   {
     numb: 25,
-    question: "Which condition of the victim is referred as COMA stage?",
+    question: "Why the soldering iron must be kept into a stand that not in use while soldering?",
     
-    answer: "Lie totally senseless and do not respond to calls",
+    answer: "It prevents burns and fire",
     options: [
-      "Un consscious but can respond to calls",
-      "Consicous but cannot resopnd to call",
-      "Breathing and respond to call",
-     "Lie totally senseless and do not respond to calls"
+      "It prevents burns and fire",
+      "To control the excessive heat",
+      "To save the time of soldering process",
+     "To avoid dry soldering"
     ]
   },        
                {
