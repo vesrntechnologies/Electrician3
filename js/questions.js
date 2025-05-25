@@ -3,7 +3,7 @@ let questions = [
     {
     numb: 1,
     question: "Which test is conducted to locate the faults in U.G. cables?",
-    //immg:"img1",
+   
     answer: "Loop Test",
     options: [
       "Loop Test",
@@ -98,7 +98,7 @@ let questions = [
     question: "How many electrons are there in the third shell of the copper atom?",
     
     answer: "18",
-    //immg:"img9",
+ 
     options: [
       "8",
       "13",
@@ -109,7 +109,7 @@ let questions = [
     {
     numb: 10,
     question: "What is the formula for the Quantity of electricity (Q)?",
-    //immg:"img10",
+ 
     answer: "Current x Time",
     options: [
       "Current x Time",
@@ -121,7 +121,7 @@ let questions = [
      {
     numb: 11,
     question: "Which formula is used to calculate the power of a DC circuit?",
-    //immg:"img11",
+  
     answer: "Current x voltage",
     options: [
       "Voltage x time",
@@ -145,7 +145,7 @@ let questions = [
  {
     numb: 13,
     question: "What is the advantage of the crimping terminations?",
-    //immg:"img13",
+ 
     answer: "Avoid loose connections",
     options: [
       "Increase the voltage",
@@ -159,7 +159,7 @@ let questions = [
     question: "Which part of the underground cable is protecting the metallic sheath against corrosion?",
     
     answer: "Bedding",
-     //immg:"img14",
+  
     options: [
       "Serving",
       "Bedding",
@@ -170,7 +170,7 @@ let questions = [
     {
     numb: 15,
     question: "What is the use of dipsoldering method?",
-    // immg:"img15",
+  
     answer: "Soldering miniature components on PCB",
     options: [
       "Hard soldering",
@@ -206,7 +206,7 @@ let questions = [
      {
     numb: 18,
     question: "Which is used to measure the size of the conductor?",
-      //immg:"img18",
+   
     answer:"Standard wire gauge",
     options: [
       "Bevel gauge",
@@ -328,7 +328,7 @@ let questions = [
           {
     numb: 28,
     question: "What is the purpose of additional covering over the insulation of insulated conductor?",
-    //immg:"img28",
+  
     answer: "To increase dielectric strength",
     options: [
       "To increase dielectric strength",
@@ -403,7 +403,7 @@ let questions = [
     question: "Which law states that the applied voltage in a closed circuit, is equal to the sum of the voltage drops?",
     
     answer: "Lead sheath",
-    //immg:"img34",
+  
     options: [
       "Ohms law",
       "Laws of resistance",
@@ -416,7 +416,7 @@ let questions = [
     question: "What is the formula for the equivalent resistance (RT) of the three resistors R1, R2 & R3 are connected in parallel?",
     
     answer: "RT = 1/R1+1/R2+1/R3",
-   // immg:"img35",
+ 
     options: [
       "RT = R1 + R2 + R3",
       "RT = 1/R1+1/R2+1/R3",
@@ -584,7 +584,7 @@ let questions = [
       {
     numb: 48,
     question: "What is the trimmed size of A4 sheet?",
-   // immg:"img48",
+ 
     answer: "210 x 297",
  
     options: [
