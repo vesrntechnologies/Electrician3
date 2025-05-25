@@ -217,7 +217,7 @@ let questions = [
   },
        {
     numb: 19,
-    question: "What is the purpose of ‘serving’ layer in underground cable?",
+    question: "What is the purpose of serving layer in underground cable?",
     
     answer:"Protect armouring from atmospheric condition",
     options: [
@@ -426,7 +426,7 @@ let questions = [
   },
      {
     numb: 36,
-    question: "What is the reading of the ohmmeter connected across the opened ‘R2’ resistor as shown in the circuit?",
+    question: "What is the reading of the ohmmeter connected across the opened R2 resistor as shown in the circuit?",
      immg:"img36",
     answer: "Indicate infinite resistance",
     
