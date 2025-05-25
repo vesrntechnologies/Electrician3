@@ -37,204 +37,206 @@ let questions = [
   },
     {
     numb: 4,
-    question: "Which pliers is used for making the wire hooks and loops?",
-    answer: "Round nose pliers",
+    question: "What is the name of the tool as shown in the figure?",
+    immg:"img4",
+    answer: "Crimping tool",
     options: [
-      "Flat nose pliers",
-      "Long nose pliers",
-      "Round nose pliers",
-      "Diagonal cutting pliers"
+      "cutting plier",
+      "Wire stripper",
+      "Crimping tool",
+      "Side cutting plier"
     ]
   },
     {
     numb: 5,
-    question: "What is the use of the pincer?",
-    answer: "Extracting the pin nails from the wood",
+    question: "Which type of joint is used in over head lines for high tensile strength?",
+    answer: "Western union joint",
     options: [
-      "Twisting the flexible wires",
-      "Cutting larger diameter of wires",
-      "Extracting the pin nails from the wood",
-      "Holding small objects, where finger cannot reach"
+      "Scarfed joint",
+      "Married Joint",
+      "Western union joint",
+      "Rat tail joint"
     ]
   },
   {
     numb: 6,
-    question: "Which plier is used for making wire hooks and loops?",
-    answer: "Yellow",
+    question: "What is the unit for quantity of electricity?",
+    answer: "Coulomb",
     options: [
-      "Blue",
-      "White",
-      "Yellow",
-      "Green"
+      "Mho",
+      "Coulomb",
+      "Volt/second",
+      "Ampere/second"
     ]
   },
   {
     numb: 7,
-    question: "What is the use of pincer? ",
-    answer: "Incineration",
+    question: "What is the name of the soldering method as shown in the figure? ",
+    immg:"img7",
+    answer: "Soldering gun",
     options: [
-      "Landfill",
-      "Composting",
-      "Incineration",
-      "Water compaction"
+      "Dip Soldering",
+      "Soldering iron",
+      "Soldering gun",
+      "soldering with flame"
     ]
   },
   {
     numb: 8,
-    question: "Which disposal method of waste save lot of energy?",
-   
-    answer: "Recycling",
+    question: "What is the name of the soldering method as shown in the figure?",
+    immg:"img8",
+    answer: "Temperature controlled soldering",
     options: [
-      "Land fill",
-      "Recycling",
-      "Incineration",
-      "Composting"
+      "Dip Soldering",
+      "Soldering with blow lamp",
+      "Soldering with soldering gun",
+      "Temperature controlled soldering"
     ]
   },
       {
     numb: 9,
-    question: "What is the name of the tool as shown in the figure?",
+    question: "How many electrons are there in the third shell of the copper atom?",
     
-    answer: "Diagonal cutting pliers",
-    immg:"img9",
+    answer: "18",
+    //immg:"img9",
     options: [
-      "Nose pliers",
-      "Crimping tool",
-      "Combination plier",
-      "Diagonal cutting pliers"
+      "8",
+      "13",
+      "18",
+      "29"
     ]
   },
     {
     numb: 10,
-    question: "What is the name of the file as shown in the figure?",
-    immg:"img10",
-    answer: "Rasp cut file",
+    question: "What is the formula for the Quantity of electricity (Q)?",
+    //immg:"img10",
+    answer: "Current x Time",
     options: [
-      "Curved cut file",
-      "Single cut file ",
-      "Double cut file",
-      "Rasp cut file"
+      "Current x Time",
+      "Voltage x Current",
+      "Current x Resistance",
+      "Voltage x Resistance"
     ]
   },
      {
     numb: 11,
-    question: "What is the name of the drill bit as shown in the figure?",
-    immg:"img11",
-    answer: "Taper shank bit",
+    question: "Which formula is used to calculate the power of a DC circuit?",
+    //immg:"img11",
+    answer: "Current x voltage",
     options: [
-      "Flat drill bit",
-      "Taper shank bit",
-      "countersink bit",
-      "straight shank bit"
+      "Voltage x time",
+      "Current x voltage",
+      "Current x resistance",
+      "Voltage x resistance"
     ]
   },
      {
     numb: 12,
-    question: "Which file is used for sharpening the blunt teeth of a tenon saw?",
+    question: "What is the advantage of the stranded conductor over the solid conductor?",
     
-    answer: "Triangular file",
+    answer: "More flexible",
     options: [
-      "square file",
-      "round file",
-      "Triangular file",
-      "half round file"
+      "cost is less",
+      "More flexible",
+      "less voltage drop",
+      "more insulation resistance"
     ]
   },
  {
     numb: 13,
-    question: "What is the name of the part marked ‘X’ as shown in the figure?",
-    immg:"img13",
-    answer: "Heel",
+    question: "What is the advantage of the crimping terminations?",
+    //immg:"img13",
+    answer: "Avoid loose connections",
     options: [
-      "Edge",
-      "Tang",
-      "Heel",
-      "point"
+      "Increase the voltage",
+      "Reduce the load current",
+      "Avoid loose connections",
+      "Easy to replace"
     ]
   },
 {
     numb: 14,
-    question: "What is the name of the hammer as shown in the figure?",
+    question: "Which part of the underground cable is protecting the metallic sheath against corrosion?",
     
-    answer: "claw hammer",
-     immg:"img14",
+    answer: "Bedding",
+     //immg:"img14",
     options: [
-      "claw hammer",
-      "Ball pein hammer",
-      "Cross pein hammer",
-      "Straight pein hammer"
+      "Serving",
+      "Bedding",
+      "Armouring",
+      "Lead Sheath"
     ]
   },
     {
     numb: 15,
-    question: "What is the name of the tool as shown in the figure?",
-     immg:"img15",
-    answer: "Ball pein hammer",
+    question: "What is the use of dipsoldering method?",
+    // immg:"img15",
+    answer: "Soldering miniature components on PCB",
     options: [
-      "Claw hammer",
-      "Tack hammer",
-      "cross pein hammer",
-     "Ball pein hammer"
+      "Hard soldering",
+      "Piping and cable soldering work",
+      "Soldering miniature components on PCB",
+     "soldering of tin sheets"
     ]
   },
     {
     numb: 16,
-    question: "Which is the physical hazard?",
+    question: "Which is the semiconductor material?",
     
-    answer: "Vibration",
+    answer: "Germanium",
     options: [
-      "smoking",
-      "Vibration",
-      "corrosive",
-      "bacteria"
+      "Eureka",
+      "Ebonite",
+      "Maganin",
+      "Germanium"
     ]
   },
     {
     numb: 17,
-    question: "Which type of fire extinguisher is used for fire on electrical equipment?",
-    
-    answer: "Halon type",
+    question: "What is the reading of the micrometer as shown in the figure?",
+      immg:"img17",
+    answer: "4.55mm",
     options: [
-      "Halon type",
-      "Foam type",
-      "Gas cartridge water type",
-      "Stored pressure water type"
+      "5.05mm",
+      "5.00mm",
+      "4.55mm",
+      "4.05mm"
     ]
   },
      {
     numb: 18,
-    question: "What is the name of the tool as shown in the figure?",
-      immg:"img18",
-    answer:"pincer",
+    question: "Which is used to measure the size of the conductor?",
+      //immg:"img18",
+    answer:"Standard wire gauge",
     options: [
-      "wire stripper",
-      "slide cutter",
-      "pincer",
-      "gimlet"
+      "Bevel gauge",
+      "Vernier caliper",
+      "Standard wire gauge",
+      "Depth gauge"
     ]
   },
        {
     numb: 19,
-    question: "Which is the correct sequence of operation to be performed while using the fire extinguisher?",
+    question: "What is the purpose of ‘serving’ layer in underground cable?",
     
-    answer:"Pull, Aim, Squeeze, Sweep",
+    answer:"Protect armouring from atmospheric condition",
     options: [
-      "Pull, Aim, Squeeze, Sweep",
-      "Pull, Aim, Sweep, Squeeze",
-      "Push, Arrange, Squeeze, Sweep",
-      "Push, Arrange, Sweep, Sequence"
+      "Protect the cable from mechanical vibration",
+      "Protect the cable from mechanical injury",
+      "Protect metallic sheath against corrosion",
+      "Protect armouring from atmospheric condition"
     ]
   },
         {
     numb: 20,
-    question: "Which Personal Protective Equipment (PPE) is used for the protection from fumes?",
+    question: "Which type of joint is used for extending the length of conductor in over head lines?",
    
-    answer:"Respirator",
+    answer:"Western Union joint",
     options: [
-      "Apron",
-      "Goggles",
-      "Ear muff",
-      "Respirator"
+      "Scarfed joint",
+      "Aerial tap joint",
+      "Britannia T joint",
+      "Western Union joint"
     ]
   },  
     
