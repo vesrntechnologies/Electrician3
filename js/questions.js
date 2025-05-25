@@ -303,321 +303,321 @@ let questions = [
   },        
                {
     numb: 26,
-    question: "Which criteria must be satisfied for the quality of PPE s?",
+    question: "What is the cause for cold solder defect in soldering?",
     
-    answer:"It should with stand the hazards",
+    answer:"Insufficient heating",
     options: [
-      "It should with stand the hazards",
-      "It cannot be used for long period",
-      "made by non standard material",
-      "low cost"
+      "Excessive heating",
+      "Insufficient heating",
+      "Incorrect usage of flux",
+      "High wattage soldering iron"
     ]
   }, 
      {
     numb: 27,
-    question: "What is the possible range to measure the size of the wire in a Standard Wire Gauge(SWG)?",
-    
-    answer: "0-36",
+    question: "What is the value of current (I) flowing through the circuit?",
+       immg:"img27",
+    answer: "2 A",
     options: [
-      "0-44",
-      "0-42",
-      "0-38",
-     "0-36"
+      "6 A",
+      "3 A",
+      "2 A",
+     "1 A"
     ]
   },
           {
     numb: 28,
-    question: "What is the name of the wire joint as shown in the figure?",
-    immg:"img28",
-    answer: "Knotted tap joint",
+    question: "What is the purpose of additional covering over the insulation of insulated conductor?",
+    //immg:"img28",
+    answer: "To increase dielectric strength",
     options: [
-      "Aerial tap joint",
-      "Knotted tap joint",
-      "Duplex cross tap joint",
-     "Double cross tap joint"
+      "To increase dielectric strength",
+      "To reduce the conductor resistance",
+      "To reduce the power loss",
+     "To increase the voltage drop"
     ]
   },
 
       {
     numb: 29,
-    question: "What is the full form of XLPE Cable?",
+    question: "Which type of cables are used for underground services from 33 kv to 66 kv?",
     
-    answer: "Cross Linked Poly Ethylene",
+    answer: "Extra- high tension cables",
     options: [
-      "Cross Line Poly Ethylene",
-      "X ess Line Phase Earthing",
-      "Cross Linked Poly Ethylene",
-     "Excess Length Paper and Ebonite"
+      "High tension cables",
+      "Extra super voltage cables,
+      "Super tension cables",
+     "Extra- high tension cables"
     ]
   },
       {
     numb: 30,
-    question: "How many electrons are there in the valence shell of a copper atom?",
+    question: "Which is the property of a good conductor?",
     
-    answer: "1",
+    answer: "Low specific resistance",
     options: [
-      "1",
-      "2",
-      "8",
-     "18"
+      "Low specific resistance",
+      "High dielectric strength",
+      "High specific resistance",
+     "Low mechanical strength"
     ]
   },
       {
     numb: 31,
-    question: "Which effect of the electric current takes place in the neon lamp?",
+    question: "Which material is used as conductors for wiring?",
     
-    answer: "Gas ionization effect",
+    answer: "Copper",
     options: [
-      "Heating effect",
-      "Magnetic effect",
-      "Chemical effect",
-     "Gas ionization effect"
+      "Mild Steel",
+      "Copper",
+      "Silver",
+     "Galvanized iron"
     ]
   },
       {
     numb: 32,
-    question: "What is the unit of insulation resistance?",
+    question: "Which layer is provided above the metallic sheath in UG cable?",
     
-    answer: "Mega ohm",
+    answer: "Bedding",
     options: [
-      "Ohm",
-      "Kilo ohm",
-      "Milli Ohm",
-     "Mega ohm"
+      "Aroouring",
+      "Bedding",
+      "Serving",
+     "Paper insulation"
     ]
   },
      {
     numb: 33,
-    question: "Which type of soldering flux is used for soldering aluminium conductors?",
+    question: "What is the formula to find the Electro Motive Force (EMF)?",
     
-    answer: "Kynal flux",
+    answer: "EMF = Potential difference + voltage drop",
     options: [
-      "Tallow",
-      "Kynal flux",
-      "Zinc Chloride",
-     "Sal ammonia"
+      "EMF = Potential difference – voltage drop",
+      "EMF = Potential difference + voltage drop",
+      "EMF = Potential difference + voltage drop/2",
+     "EMF = Potential difference + 2 x voltage drop"
     ]
   },
       {
     numb: 34,
-    question: "What is the name of the part marked X in UG cables as shown in the figure?",
+    question: "Which law states that the applied voltage in a closed circuit, is equal to the sum of the voltage drops?",
     
     answer: "Lead sheath",
-    immg:"img34",
+    //immg:"img34",
     options: [
-      "Serving",
-      "Bedding",
-      "Armouring",
-     "Lead sheath"
+      "Ohms law",
+      "Laws of resistance",
+      "Kirchhoffs first law",
+     "Kirchhoffs second law"
     ]
   },
      {
     numb: 35,
-    question: "What is the name of the joint as shown in the figure?",
+    question: "What is the formula for the equivalent resistance (RT) of the three resistors R1, R2 & R3 are connected in parallel?",
     
-    answer: "Married joint",
-    immg:"img35",
+    answer: "RT = 1/R1+1/R2+1/R3",
+   // immg:"img35",
     options: [
-      "Married joint",
-      "Scarfed Joint",
-      "Western Union Joint",
-     "Britannia Sraight Joint"
+      "RT = R1 + R2 + R3",
+      "RT = 1/R1+1/R2+1/R3",
+      "RT = 1/(R1 + R2 + R3)",
+     "none"
     ]
   },
      {
     numb: 36,
-    question: "What is the use of Britannia T joint?",
-    
-    answer: "Tapping the service connection from overhead lines",
+    question: "What is the reading of the ohmmeter connected across the opened ‘R2’ resistor as shown in the circuit?",
+     immg:"img36",
+    answer: "Indicate infinite resistance",
     
     options: [
-      "Extending the length of the lines",
-      "Inside and outside wiring installation",
-      "Mechanical stress not required on conductor",
-     "Tapping the service connection from overhead lines"
+      "Indicate zero reading",
+      "Indicate infinite resistance",
+      "Difference in the value of the resistance of R1 and R3 only",
+     "Sum of the resistance of R1 and R3 only"
     ]
   },
      {
     numb: 37,
     question: "What is the name of the part marked X of the belted U.G cable as shown in the figure?",
     
-    answer: "Lead sheath",
+    answer: "Wire wound resistor",
     immg:"img37",
     options: [
-      "Jute filling",
-      "Armouring",
-      "Lead sheath",
-     "Paper insulation"
+      "Metal film resistor",
+      "Wire wound resistor",
+      "Carbon -film resistor",
+     "Carbon composition resistor"
     ]
   },
      {
     numb: 38,
-    question: "What is the purpose of the bedding insulation in the U.G. cable?",
+    question: "Which material is having the negative temperature co-efficient property?",
     
-    answer: "Protect the metallic sheath against corrosion",
+    answer: "Mica",
  
     options: [
-      "Protect the cable fromn mechanical injury",
-      "Protect the cable from moisture and gases",
-      "Protect armouring from atomspheric condition",
-     "Protect the metallic sheath against corrosion"
+      "Mica",
+      "Eureka",
+      "Copper",
+     "Manganin"
     ]
   },
       {
     numb: 39,
-    question: "What are the two classifications of system of units?",
+    question: "Convert 0.456 decimal fraction into percentage?",
     
-    answer: "Fundamental and derived",
+    answer: "45.6%",
  
     options: [
-      "British and Metric",
-      "Gravitational and non gravitational",
-      "Fundamental and derived",
-     "Metric and International"
+      "45.6%",
+      "4.56%",
+      "0.456%",
+     "0.0456%"
     ]
   },
       {
     numb: 40,
-    question: "What are fundamental units?",
+    question: "What is the square of 0.01?",
     
-    answer: "Length, Mass, Time",
+    answer: "0.0001",
  
     options: [
-      "Length, Mass, Volume",
-      "Length, Mass, Time",
-      "Length, Mass, Area",
-     "Length, Pressure, Volume"
+      "0.001",
+      "0.0001",
+      "0.01",
+     "0.00001"
     ]
   },
        {
     numb: 41,
-    question: "What denotes letter ' in MKS system?",
+    question: "Which metal contains iron as a major content?",
     
-    answer: "Meter",
+    answer: "Ferrous metal",
  
     options: [
-      "Mile",
-      "Milli Meter",
-      "Meter",
-     "Micron"
+      "Brass metal",
+      "bronze metal",
+      "zinc",
+     "Ferrous metal"
     ]
   },
 
        {
     numb: 42,
-    question: "How many millimetres are there in 1 inch?",
+    question: "What is termed as the quantity of matter contained in a body?",
     
-    answer: "25.4mm",
+    answer: "Mass",
  
     options: [
-      "2.54mm",
-      "25.4mm",
-      "24.5mm",
-     "2.45mm"
+      "Density",
+      "Volume",
+      "Mass",
+     "Spefific gravity"
     ]
   },
       {
     numb: 43,
-    question: "Convert decimal 0.000659 to fraction?",
+    question: "What is called mass per unit volume of a substances?",
     
-    answer: "659/1000000",
+    answer: "Denisty",
  
     options: [
-      "659/10000",
-      "659/100000",
-      "659/1000000",
-     "659/1000"
+      "Mass",
+      "Weight",
+      "Density",
+     "Volume"
     ]
   },
     {
     numb: 44,
-    question: "What is the square root of 529?",
+    question: "What is the S.I unit of heat?",
     
-    answer: "23",
+    answer: "Joule",
  
     options: [
-      "13",
-      "23",
-      "33",
-     "43"
+      "Calorie",
+      "Joule",
+      "Centigrade heat unit",
+     "British thermal unit"
     ]
   },
      {
     numb: 45,
     question: "Identify the conventional symbol of material?",
     immg:"img45",
-    answer: "Water",
+    answer: "Steel",
  
     options: [
-      "Water",
-      "Concrete",
-      "Asbestos",
-     "Glass"
+      "Lead",
+      "Steel",
+      "Glass",
+     "Porcelain"
     ]
   },
      {
     numb: 46,
     question: "Identify the conventional symbol of material?",
     immg:"img46",
-    answer: "Wood",
+    answer: "Glass",
  
     options: [
-      "Lead",
-      "Glass",
+      "Concrete",
+      "Steel",
       "Wood",
-     "Paper"
+     "Glass"
     ]
   },
      {
     numb: 47,
-    question: "Identify the name of instrument?",
+   question: "Identify the conventional symbol of material?",
     immg:"img47",
-    answer: "Protractor",
+    answer: "Concrete",
  
     options: [
-      "Set Square",
-      "Protractor",
-      "French curve",
-     "T Square"
+      "Steel",
+      "Wood",
+      "Glass",
+     "Concrete"
     ]
   },
       {
     numb: 48,
-    question: "Identify the name of set square?",
-    immg:"img48",
-    answer: "45o set square",
+    question: "What is the trimmed size of A4 sheet?",
+   // immg:"img48",
+    answer: "210 x 297",
  
     options: [
-      "15o Set Square",
-      "60o set square",
-      "30o set square",
-     "45o set square"
+      "841 x 1189",
+      "594 x 841",
+      "210 x 297",
+     "148 x 210"
     ]
   },
       {
     numb: 49,
-    question: "Compass used to draw for___.",
+    question: "The general form of linear equation",
     
-    answer: "circle",
+    answer: "ax+b",
  
     options: [
-      "rectangle",
-      "square",
-      "circle",
-     "triangle"
+      "ax+b",
+      "b+ax",
+      "a+aax",
+     "bx+ax"
     ]
   },
       {
     numb: 50,
-    question: "a+b = 15, a-b=10 Then 4ab=? ",
-    
-    answer: "125",
+    question: "Identify the name of prism?",
+     immg:"img50",
+    answer: "Hexagonal prism",
  
     options: [
-      "125",
-      "100",
-      "120",
-     "135"
+      "Square prism",
+      "Pentagonal prism",
+      "Triangular prism",
+     "Hexagonal prism"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
