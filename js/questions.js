@@ -25,14 +25,14 @@ let questions = [
   },
     {
     numb: 3,
-    question: "Which step of the 5s-concept refers Standardization?",
+    question: "What is the size of the neutral core of a 90 sq mm 31/2 core U.G cable?",
     
-    answer: "Step-4",
+    answer: "50 Sq mm",
     options: [
-      "Step-1",
-      "Step-2",
-      "Step-3",
-      "Step-4"
+      "45 Sq mm",
+      "50 Sq mm",
+      "70 Sq mm",
+      "90 Sq mm"
     ]
   },
     {
