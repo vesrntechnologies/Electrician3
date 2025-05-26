@@ -345,7 +345,7 @@ let questions = [
     options: [
       "High tension cables",
       "Extra super voltage cables,
-      "Super tension cables",
+      "Supertension cables",
      "Extra- high tension cables"
     ]
   },
