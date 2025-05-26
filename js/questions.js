@@ -27,7 +27,7 @@ let questions = [
     numb: 3,
     question: "What is the size of the neutral core of a 90 sq mm 31/2 core U.G cable?",
     
-    answer: "50 Sq mm",
+    answer: "45 Sq mm",
     options: [
       "45 Sq mm",
       "50 Sq mm",
