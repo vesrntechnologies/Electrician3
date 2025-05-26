@@ -239,6 +239,129 @@ let questions = [
       "Western Union joint"
     ]
   },  
+     {
+    numb: 21,
+    question: "What is the effect on molten solder due to repeated melting?",
+    
+    answer:"Tin content reduced",
+    options: [
+      "Tin content reduced",
+      "Lead content reduced",
+      "Prevent slug formation",
+      "Even solder flowing in joint"
+    ]
+  },
+                 
+        {
+    numb: 22,
+    question: "Which type of soldering method is used for servicing and repairing of electronics items?",
+    
+    answer:"Soldering with soldering gun",
+    options: [
+      "Dip soldering",
+      "Soldering with a flame",
+      "Soldering with soldering gun",
+      "Machine soldering"
+    ]
+  },  
+     {
+    numb: 23,
+    question: "Which method of soldering is used for repairing the vehicle body?",
+    
+    answer:"Soldering with flame",
+    options: [
+      "Dip soldering",
+      "Soldering with flame",
+      "soldring with soldering iron",
+      "machine soldering"
+    ]
+  }, 
+     {
+    numb: 24,
+    question: "What is the disadvantage of solid conductor compared to stranded conductor?",
+    
+    answer: "Less flexibility",
+    options: [
+      "Less rigidity",
+      "Less flexibility",
+      "Low melting point",
+     "low maechanical strength"
+    ]
+  },
+  {
+    numb: 25,
+    question: "Why the soldering iron must be kept into a stand that not in use while soldering?",
+    
+    answer: "It prevents burns and fire",
+    options: [
+      "It prevents burns and fire",
+      "To control the excessive heat",
+      "To save the time of soldering process",
+     "To avoid dry soldering"
+    ]
+  },        
+               {
+    numb: 26,
+    question: "What is the cause for cold solder defect in soldering?",
+    
+    answer:"Insufficient heating",
+    options: [
+      "Excessive heating",
+      "Insufficient heating",
+      "Incorrect usage of flux",
+      "High wattage soldering iron"
+    ]
+  }, 
+     {
+    numb: 27,
+    question: "What is the value of current (I) flowing through the circuit?",
+       immg:"img27",
+    answer: "2 A",
+    options: [
+      "6 A",
+      "3 A",
+      "2 A",
+     "1 A"
+    ]
+  },
+          {
+    numb: 28,
+    question: "What is the purpose of additional covering over the insulation of insulated conductor?",
+  
+    answer: "To increase dielectric strength",
+    options: [
+      "To increase dielectric strength",
+      "To reduce the conductor resistance",
+      "To reduce the power loss",
+     "To increase the voltage drop"
+    ]
+  },
+
+      {
+    numb: 29,
+    question: "Which type of cables are used for underground services from 33 kv to 66 kv?",
+    
+    answer: "Extra- high tension cables",
+    options: [
+      "High tension cables",
+      "Extra super voltage cables,
+      "Super tension cables",
+     "Extra- high tension cables"
+    ]
+  },
+      {
+    numb: 30,
+    question: "Which is the property of a good conductor?",
+    
+    answer: "Low specific resistance",
+    options: [
+      "Low specific resistance",
+      "High dielectric strength",
+      "High specific resistance",
+     "Low mechanical strength"
+    ]
+  },
+
 
 
   // you can uncomment the below codes and make duplicate as more as you want to add question
