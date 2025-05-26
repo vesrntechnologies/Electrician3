@@ -344,8 +344,8 @@ let questions = [
     answer: "Extra- high tension cables",
     options: [
       "High tension cables",
-      "Extra super voltage cables,
-      "Supertension cables",
+      "Extra super voltage cables",
+      "Super tension cables",
      "Extra- high tension cables"
     ]
   },
@@ -359,6 +359,264 @@ let questions = [
       "High dielectric strength",
       "High specific resistance",
      "Low mechanical strength"
+    ]
+  },
+ {
+    numb: 31,
+    question: "Which material is used as conductors for wiring?",
+    
+    answer: "Copper",
+    options: [
+      "Mild Steel",
+      "Copper",
+      "Silver",
+     "Galvanized iron"
+    ]
+  },
+      {
+    numb: 32,
+    question: "Which layer is provided above the metallic sheath in UG cable?",
+    
+    answer: "Bedding",
+    options: [
+      "Armouring",
+      "Bedding",
+      "Serving",
+     "Paper insulation"
+    ]
+  },
+     {
+    numb: 33,
+    question: "What is the formula to find the Electro Motive Force (EMF)?",
+    
+    answer: "EMF = Potential difference + voltage drop",
+    options: [
+      "EMF = Potential difference – voltage drop",
+      "EMF = Potential difference + voltage drop",
+      "EMF = Potential difference + voltage drop/2",
+     "EMF = Potential difference + 2 x voltage drop"
+    ]
+  },
+      {
+    numb: 34,
+    question: "Which law states that the applied voltage in a closed circuit, is equal to the sum of the voltage drops?",
+    
+    answer: "Lead sheath",
+  
+    options: [
+      "Ohms law",
+      "Laws of resistance",
+      "Kirchhoffs first law",
+     "Kirchhoffs second law"
+    ]
+  },
+     {
+    numb: 35,
+    question: "What is the formula for the equivalent resistance (RT) of the three resistors R1, R2 & R3 are connected in parallel?",
+    
+    answer: "RT = 1/R1+1/R2+1/R3",
+ 
+    options: [
+      "RT = R1 + R2 + R3",
+      "RT = 1/R1+1/R2+1/R3",
+      "RT = 1/(R1 + R2 + R3)",
+     "none"
+    ]
+  },
+     {
+    numb: 36,
+    question: "What is the reading of the ohmmeter connected across the opened R2 resistor as shown in the circuit?",
+     immg:"img36",
+    answer: "Indicate infinite resistance",
+    
+    options: [
+      "Indicate zero reading",
+      "Indicate infinite resistance",
+      "Difference in the value of the resistance of R1 and R3 only",
+     "Sum of the resistance of R1 and R3 only"
+    ]
+  },
+     {
+    numb: 37,
+    question: "What is the name of the part marked X of the belted U.G cable as shown in the figure?",
+    
+    answer: "Wire wound resistor",
+    immg:"img37",
+    options: [
+      "Metal film resistor",
+      "Wire wound resistor",
+      "Carbon -film resistor",
+     "Carbon composition resistor"
+    ]
+  },
+     {
+    numb: 38,
+    question: "Which material is having the negative temperature co-efficient property?",
+    
+    answer: "Mica",
+ 
+    options: [
+      "Mica",
+      "Eureka",
+      "Copper",
+     "Manganin"
+    ]
+  },
+      {
+    numb: 39,
+    question: "Convert 0.456 decimal fraction into percentage?",
+    
+    answer: "45.6%",
+ 
+    options: [
+      "45.6%",
+      "4.56%",
+      "0.456%",
+     "0.0456%"
+    ]
+  },
+      {
+    numb: 40,
+    question: "What is the square of 0.01?",
+    
+    answer: "0.0001",
+ 
+    options: [
+      "0.001",
+      "0.0001",
+      "0.01",
+     "0.00001"
+    ]
+  },
+       {
+    numb: 41,
+    question: "Which metal contains iron as a major content?",
+    
+    answer: "Ferrous metal",
+ 
+    options: [
+      "Brass metal",
+      "bronze metal",
+      "zinc",
+     "Ferrous metal"
+    ]
+  },
+
+       {
+    numb: 42,
+    question: "What is termed as the quantity of matter contained in a body?",
+    
+    answer: "Mass",
+ 
+    options: [
+      "Density",
+      "Volume",
+      "Mass",
+     "Spefific gravity"
+    ]
+  },
+      {
+    numb: 43,
+    question: "What is called mass per unit volume of a substances?",
+    
+    answer: "Denisty",
+ 
+    options: [
+      "Mass",
+      "Weight",
+      "Density",
+     "Volume"
+    ]
+  },
+    {
+    numb: 44,
+    question: "What is the S.I unit of heat?",
+    
+    answer: "Joule",
+ 
+    options: [
+      "Calorie",
+      "Joule",
+      "Centigrade heat unit",
+     "British thermal unit"
+    ]
+  },
+     {
+    numb: 45,
+    question: "Identify the conventional symbol of material?",
+    immg:"img45",
+    answer: "Steel",
+ 
+    options: [
+      "Lead",
+      "Steel",
+      "Glass",
+     "Porcelain"
+    ]
+  },
+     {
+    numb: 46,
+    question: "Identify the conventional symbol of material?",
+    immg:"img46",
+    answer: "Glass",
+ 
+    options: [
+      "Concrete",
+      "Steel",
+      "Wood",
+     "Glass"
+    ]
+  },
+     {
+    numb: 47,
+   question: "Identify the conventional symbol of material?",
+    immg:"img47",
+    answer: "Concrete",
+ 
+    options: [
+      "Steel",
+      "Wood",
+      "Glass",
+     "Concrete"
+    ]
+  },
+      {
+    numb: 48,
+    question: "What is the trimmed size of A4 sheet?",
+ 
+    answer: "210 x 297",
+ 
+    options: [
+      "841 x 1189",
+      "594 x 841",
+      "210 x 297",
+     "148 x 210"
+    ]
+  },
+      {
+    numb: 49,
+    question: "The general form of linear equation",
+    
+    answer: "ax+b",
+ 
+    options: [
+      "ax+b",
+      "b+ax",
+      "a+aax",
+     "bx+ax"
+    ]
+  },
+      {
+    numb: 50,
+    question: "Identify the name of prism?",
+     immg:"img50",
+    answer: "Hexagonal prism",
+ 
+    options: [
+      "Square prism",
+      "Pentagonal prism",
+      "Triangular prism",
+     "Hexagonal prism"
     ]
   },
 
