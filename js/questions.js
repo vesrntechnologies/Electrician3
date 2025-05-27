@@ -414,11 +414,11 @@ let questions = [
     numb: 35,
     question: "What is the formula for the equivalent resistance (RT) of the three resistors R1, R2 & R3 are connected in parallel?",
     
-    answer: "RT = 1/R1+1/R2+1/R3",
+    answer: "RT=1/R1+1/R2+1/R3",
  
     options: [
       "RT = R1 + R2 + R3",
-      "RT = 1/R1+1/R2+1/R3",
+      "RT=1/R1+1/R2+1/R3",
       "RT = 1/(R1 + R2 + R3)",
      "none"
     ]
